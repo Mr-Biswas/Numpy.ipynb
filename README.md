@@ -1,2 +1,2 @@
 # Numpy.ipynb
-Hands On with Numpy
+Hands On with Numpy Library.
